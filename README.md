@@ -1,6 +1,12 @@
+## About
+
+**This is a repo of patric collins foundry and smart contract course**
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+
+**Me: Yes it's truly fantastic**
 
 Foundry consists of:
 
